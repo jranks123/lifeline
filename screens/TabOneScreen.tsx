@@ -9,7 +9,7 @@ export default function TabOneScreen({ navigation }: RootTabScreenProps<'TabOne'
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Tab Onde</Text>
-      <DeathSvg />
+      <DeathSvg  />
     </View>
   );
 }
